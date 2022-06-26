@@ -17,7 +17,8 @@ trucks and the best locations for warehouses and delivery centres.
 ● Pharmaceutical businesses can use graph theory to improve salesman routes. This
 helps salespeople save money by minimising their commute time.
 
-**Experimental platform **-** Google Colaboratory
+**Experimental platform ** - Google Colaboratory
+
 Google Colaboratory Notebook and Python 3.6 were used to conduct the entire study, which is extremely valuable for data analysis and machine learning.
 
 ![image](https://user-images.githubusercontent.com/63719111/175823210-35ea2749-6238-4696-bb88-d66630864795.png)
@@ -26,16 +27,7 @@ In novels, character interactions is a crucial concept to deal with ,especially 
 point of view.
 
 **steps involved**
-CHARACTER IDENTIFICATION
-CHARACTER OCCURENCE
-CONNECTIVITY
-IDENTIFYING COMPONENTS AND CONNECTIONS
-DEGREE STRENGTH
-INTERACTION DETECTION
-INTERACTION CONNECTION
-NTERACTION CONNECTION
-CHARACTER GROUP NETWORKS
-
+![image](https://user-images.githubusercontent.com/63719111/175823367-4abf0fc6-0b88-47bc-9440-ffca9275a82d.png)
 
 **Results**
 ![image](https://user-images.githubusercontent.com/63719111/175823158-c28ddb1b-dc75-42de-8aa2-f5d48107b4cd.png)
