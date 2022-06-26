@@ -1,14 +1,19 @@
 # Graph-Networks
+
 **Introduction**
-A graph is a data structure made up of nodes (also known as vertices and edges) that are connected to represent information and have no definite beginning or conclusion. When
-displayed in two-dimensional or multidimensional space, all of the nodes occupy an arbitrary place in space, commonly clustered according to related properties.
-Many entities can be represented by a graph, including social media networks, chemicals, and so on in which users, goods, and atoms are represented by nodes, while connections
-are represented by edges.
+
+A graph is a data structure made up of nodes (also known as vertices and edges) that are connected to represent information and have no definite beginning or conclusion. When displayed in two-dimensional or multidimensional space, all of the nodes occupy an arbitrary place in space, commonly clustered according to related properties.Many entities can be represented by a graph, including social media networks, chemicals, and so on in which users, goods, and atoms are represented by nodes, while connections are represented by edges.
+
+
 We can model and examine the structure of a network using graph theory. Because graph theory is primarily topological, it promotes both quantitative and qualitative methods.
+
 Graphs have a wide range of uses in data analytics.some industry use cases -
+
 ● Marketing Analytics
+
 ● Graphs in the supply chain can help you figure out the best routes for your delivery
 trucks and the best locations for warehouses and delivery centres.
+
 ● Pharmaceutical businesses can use graph theory to improve salesman routes. This
 helps salespeople save money by minimising their commute time.
 
@@ -19,6 +24,7 @@ Google Colaboratory Notebook and Python 3.6 were used to conduct the entire stud
 
 In novels, character interactions is a crucial concept to deal with ,especially when you have to give summaries of the whole series. This experiment aims to analyse the involvement ofevery character with others that exist in the complete plot by keeping individual characters in
 point of view.
+
 **steps involved**
 CHARACTER IDENTIFICATION
 CHARACTER OCCURENCE
@@ -33,4 +39,4 @@ CHARACTER GROUP NETWORKS
 
 **Results**
 ![image](https://user-images.githubusercontent.com/63719111/175823158-c28ddb1b-dc75-42de-8aa2-f5d48107b4cd.png)
-![image](https://user-images.githubusercontent.com/63719111/175822639-9688ccf1-f8e9-4a09-8a19-db428146ca27.png)
+![image](https://user-images.githubusercontent.com/63719111/175823270-dc99652c-5d07-440f-ba86-51735d0e38cf.png)
