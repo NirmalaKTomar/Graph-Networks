@@ -1,7 +1,6 @@
 # Graph-Networks
 
 **Introduction**
-
 A graph is a data structure made up of nodes (also known as vertices and edges) that are connected to represent information and have no definite beginning or conclusion. When displayed in two-dimensional or multidimensional space, all of the nodes occupy an arbitrary place in space, commonly clustered according to related properties.Many entities can be represented by a graph, including social media networks, chemicals, and so on in which users, goods, and atoms are represented by nodes, while connections are represented by edges.
 
 
@@ -17,7 +16,7 @@ trucks and the best locations for warehouses and delivery centres.
 ● Pharmaceutical businesses can use graph theory to improve salesman routes. This
 helps salespeople save money by minimising their commute time.
 
-**Experimental platform ** - Google Colaboratory
+**Experimental platform** - Google Colaboratory
 
 Google Colaboratory Notebook and Python 3.6 were used to conduct the entire study, which is extremely valuable for data analysis and machine learning.
 
