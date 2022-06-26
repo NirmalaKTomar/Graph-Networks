@@ -26,6 +26,7 @@ In novels, character interactions is a crucial concept to deal with ,especially 
 point of view.
 
 **steps involved**
+
 ![image](https://user-images.githubusercontent.com/63719111/175823367-4abf0fc6-0b88-47bc-9440-ffca9275a82d.png)
 
 **Results**
